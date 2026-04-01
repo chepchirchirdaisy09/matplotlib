@@ -91,4 +91,3 @@ Run the notebook cells sequentially to see each visualization technique in actio
 
 ---
 
-*Created as part of a comprehensive data visualization course.*
